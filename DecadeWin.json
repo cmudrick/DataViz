@@ -1,0 +1,242 @@
+[
+ {
+   "Team": "Atlanta Hawks",
+   "Win": 45.4,
+   "Loss": 35,
+   "WinPercent": 0.5654,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Boston Celtics",
+   "Win": 48,
+   "Loss": 32.3,
+   "WinPercent": 0.5975,
+   "FinalsAppearances": 1,
+   "Championships": 1
+ },
+ {
+   "Team": "Brooklyn Nets",
+   "Win": 32.4,
+   "Loss": 48,
+   "WinPercent": 0.3973,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Charlotte Hornets",
+   "Win": 40.8,
+   "Loss": 39.6,
+   "WinPercent": 0.5122,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Chicago Bulls",
+   "Win": 43.8,
+   "Loss": 36.6,
+   "WinPercent": 0.5404,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Cleveland Cavaliers",
+   "Win": 46.7,
+   "Loss": 33.7,
+   "WinPercent": 0.5801,
+   "FinalsAppearances": 2,
+   "Championships": 1
+ },
+ {
+   "Team": "Dallas Mavericks",
+   "Win": 46,
+   "Loss": 34.4,
+   "WinPercent": 0.5723,
+   "FinalsAppearances": null,
+   "Championships": 1
+ },
+ {
+   "Team": "Denver Nuggets",
+   "Win": 37.6,
+   "Loss": 42.8,
+   "WinPercent": 0.466,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Detroit Pistons",
+   "Win": 33.3,
+   "Loss": 47.1,
+   "WinPercent": 0.4129,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Golden State Warriors",
+   "Win": 53.2,
+   "Loss": 27.2,
+   "WinPercent": 0.6587,
+   "FinalsAppearances": 1,
+   "Championships": 2
+ },
+ {
+   "Team": "Houston Rockets",
+   "Win": 43.4,
+   "Loss": 37,
+   "WinPercent": 0.5417,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Indiana Pacers",
+   "Win": 37.3,
+   "Loss": 43,
+   "WinPercent": 0.4674,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "LA Clippers",
+   "Win": 55,
+   "Loss": 25.4,
+   "WinPercent": 0.6828,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Los Angeles Lakers",
+   "Win": 30.9,
+   "Loss": 49.5,
+   "WinPercent": 0.3889,
+   "FinalsAppearances": 1,
+   "Championships": 2
+ },
+ {
+   "Team": "Memphis Grizzlies",
+   "Win": 45.5,
+   "Loss": 34.9,
+   "WinPercent": 0.5684,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Miami Heat",
+   "Win": 41.8,
+   "Loss": 38.6,
+   "WinPercent": 0.519,
+   "FinalsAppearances": 2,
+   "Championships": 2
+ },
+ {
+   "Team": "Milwaukee Bucks",
+   "Win": 27.3,
+   "Loss": 53.1,
+   "WinPercent": 0.3405,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Minnesota Timberwolves",
+   "Win": 27.3,
+   "Loss": 53.1,
+   "WinPercent": 0.3395,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "New Orleans Pelicans",
+   "Win": 37.9,
+   "Loss": 42.5,
+   "WinPercent": 0.4685,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "New York Knicks",
+   "Win": 33.3,
+   "Loss": 47.1,
+   "WinPercent": 0.4166,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Oklahoma City Thunder",
+   "Win": 49.3,
+   "Loss": 31.1,
+   "WinPercent": 0.6152,
+   "FinalsAppearances": 1,
+   "Championships": null
+ },
+ {
+   "Team": "Orlando Magic",
+   "Win": 37.9,
+   "Loss": 42.5,
+   "WinPercent": 0.4733,
+   "FinalsAppearances": 1,
+   "Championships": null
+ },
+ {
+   "Team": "Philadelphia 76ers",
+   "Win": 30.8,
+   "Loss": 49.6,
+   "WinPercent": 0.386,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Phoenix Suns",
+   "Win": 37.3,
+   "Loss": 43.1,
+   "WinPercent": 0.4647,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Portland Trail Blazers",
+   "Win": 44.1,
+   "Loss": 36.3,
+   "WinPercent": 0.5461,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Sacramento Kings",
+   "Win": 29.4,
+   "Loss": 51,
+   "WinPercent": 0.3649,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "San Antonio Spurs",
+   "Win": 53.8,
+   "Loss": 26.6,
+   "WinPercent": 0.671,
+   "FinalsAppearances": 1,
+   "Championships": 1
+ },
+ {
+   "Team": "Toronto Raptors",
+   "Win": 39.7,
+   "Loss": 40.7,
+   "WinPercent": 0.4909,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Utah Jazz",
+   "Win": 42.7,
+   "Loss": 37.7,
+   "WinPercent": 0.5313,
+   "FinalsAppearances": null,
+   "Championships": null
+ },
+ {
+   "Team": "Washington Wizards",
+   "Win": 34,
+   "Loss": 46.4,
+   "WinPercent": 0.4206,
+   "FinalsAppearances": null,
+   "Championships": null
+ }
+]
